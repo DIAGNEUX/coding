@@ -51,3 +51,14 @@ section{
     height: 600px;
     padding: 32px;
 }
+a{
+    color: #007bff;
+    
+}
+p{
+    text-align: justify;
+}
+span{
+    color: #007bff;
+    font-style: italic;
+}
