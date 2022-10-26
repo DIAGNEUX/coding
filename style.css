@@ -3,7 +3,8 @@
     padding: 0;
 }
 body{
-    margin:0 100px ;
+    
+    background-color: #eeeeee;
 }
 h1{
     text-align: center;
@@ -43,4 +44,10 @@ h3 ,p{
 }
 .up a{
    text-decoration: none;
+}
+section{
+    width: 60%;
+    margin: auto;
+    height: 600px;
+    padding: 32px;
 }
