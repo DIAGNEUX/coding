@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    margin:0 20px ;
+    margin:0 100px ;
 }
 h1{
     text-align: center;
@@ -28,9 +28,9 @@ tr, th, td{
     height: 300px;
 
 }
-span{
-    font-size: bold;
-    color: rgb(0, 217, 255);
+span a {
+    font-size: bolder;
+   
 }
 .middle{ text-align: center;}
 h3 ,p{
