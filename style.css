@@ -13,9 +13,7 @@ nav{
     border-top: 2px solid black;
     border-bottom: 2px solid black ;
 }
-ul li{
-    margin: 10px 20px;
-}
+
 table {
     border-collapse: collapse ;
     
@@ -23,4 +21,26 @@ table {
 tr, th, td{
     
     border: 1px solid black;
+}
+.photo{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+
+}
+span{
+    font-size: bold;
+    color: rgb(0, 217, 255);
+}
+.middle{ text-align: center;}
+h3 ,p{
+    margin: 20px 0px;
+}
+
+.up{
+    border-top: 2px solid black;
+    
+}
+.up a{
+   text-decoration: none;
 }
