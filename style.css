@@ -16,3 +16,11 @@ nav{
 ul li{
     margin: 10px 20px;
 }
+table {
+    border-collapse: collapse ;
+    
+}
+tr, th, td{
+    
+    border: 1px solid black;
+}
