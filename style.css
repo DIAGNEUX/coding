@@ -17,6 +17,7 @@ nav{
 
 table {
     border-collapse: collapse ;
+    margin-top: 50px;
     
 }
 tr, th, td{
@@ -66,4 +67,8 @@ p{
 span{
     color: #007bff;
     font-style: italic;
+}
+.right{
+    float: right;
+    font-size: 12px;
 }
