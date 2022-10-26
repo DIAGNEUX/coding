@@ -53,7 +53,12 @@ section{
 }
 a{
     color: #007bff;
+    font-size: bold;
+    text-decoration: none;
     
+}
+a:hover{
+    text-decoration: underline;
 }
 p{
     text-align: justify;
